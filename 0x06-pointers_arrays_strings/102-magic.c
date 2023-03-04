@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - A dream doesn't become reality through magic
- * Description: it takes sweat, determination and hard work
- * Return: Always 0 (Success)
- */
 int main(void)
 {
 int n;
