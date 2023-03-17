@@ -6,7 +6,7 @@
 /**
  * main - check the code
  *
- * Return: Always 0.
+ * Return: Always 98.
  */
 int main(void)
 {
@@ -27,5 +27,5 @@ int main(void)
     free(i);
     free(f);
     free(d);
-    return (0);
+    return (98);
 }
