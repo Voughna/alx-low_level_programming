@@ -6,12 +6,12 @@ int _putchar(char character);
 
 /**
  * struct list_s - singly linked list
- * @str: string
+ * @str: string - (malloc'ed string)
  * @len: length of string
  * @next: point next node
- * Description: singly linked list struct
+ *
+ * Description: singly linked list node structure
  */
-
 typedef struct list_s
 {
 	char *str;
